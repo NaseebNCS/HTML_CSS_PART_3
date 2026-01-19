@@ -299,6 +299,7 @@ a {
   border-radius: 50px;
   background: #fff;
   box-shadow: rgba(156, 117, 117, 0.2) 0px 10px 32px 0px;
+  width: 92%;
 }
 
 .input__group input {
@@ -795,6 +796,7 @@ a {
   content: "-";
   float: right;
 }
+
 
 
 
