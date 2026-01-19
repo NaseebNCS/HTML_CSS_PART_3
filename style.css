@@ -369,9 +369,11 @@ a {
   .card-block {
     flex-direction: row;
   }
-}
+  .card {
+  width: 36rem;|
+}}
 .card {
-  width: 36rem;
+  width: 30rem;
   position: relative;
   overflow: hidden;
   border-radius: 1rem;
@@ -792,6 +794,7 @@ a {
   content: "-";
   float: right;
 }
+
 
 
 
